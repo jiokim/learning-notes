@@ -14,7 +14,7 @@
 
 - [x] [Chapter 1. Analyzing Business Domains](chapter-01.md)
 - [x] [Chapter 2. Discovering Domain Knowledge](chapter-02.md)
-- [ ] [Chapter 3. Managing Domain Complexity](chapter-03.md)
+- [x] [Chapter 3. Managing Domain Complexity](chapter-03.md)
 - [ ] [Chapter 4. Integrating Bounded Contexts](chapter-04.md)
 
 ### Part II. Tactical Design (전술적 설계)
