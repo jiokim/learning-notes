@@ -13,7 +13,7 @@
 ### Part I. Strategic Design (전략적 설계)
 
 - [x] [Chapter 1. Analyzing Business Domains](chapter-01.md)
-- [ ] [Chapter 2. Discovering Domain Knowledge](chapter-02.md)
+- [x] [Chapter 2. Discovering Domain Knowledge](chapter-02.md)
 - [ ] [Chapter 3. Managing Domain Complexity](chapter-03.md)
 - [ ] [Chapter 4. Integrating Bounded Contexts](chapter-04.md)
 
