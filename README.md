@@ -10,6 +10,7 @@
 | `talks/` | 강연 / 발표 정리 |
 | `articles/` | 아티클 / 블로그 정리 |
 | `papers/` | 논문 정리 |
+| `ai/` | AI 관련 학습 자료 정리 |
 | `backlog.md` | 읽을 것들 목록 |
 
 ## 책
@@ -17,3 +18,9 @@
 | 제목 | 저자 | 연도 | 상태 |
 |------|------|------|------|
 | [Learning Domain-Driven Design](books/learning-domain-driven-design/README.md) | Vlad Khononov | 2021 | 진행 중 |
+
+## AI
+
+| 자료 | 상태 |
+|------|------|
+| [Claude Certified Architect 커리큘럼](ai/claude-certified-architect/README.md) | 진행 중 |
