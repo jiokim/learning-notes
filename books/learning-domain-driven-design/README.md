@@ -19,8 +19,8 @@
 
 ### Part II. Tactical Design (전술적 설계)
 
-- [ ] [Chapter 5. Implementing Simple Business Logic](chapter-05.md)
-- [ ] [Chapter 6. Tackling Complex Business Logic](chapter-06.md)
+- [x] [Chapter 5. Implementing Simple Business Logic](chapter-05.md)
+- [x] [Chapter 6. Tackling Complex Business Logic](chapter-06.md)
 - [ ] [Chapter 7. Modeling the Dimension of Time](chapter-07.md)
 - [ ] [Chapter 8. Architectural Patterns](chapter-08.md)
 - [ ] [Chapter 9. Communication Patterns](chapter-09.md)
